@@ -1,2 +1,0 @@
-# Tecnologia
-Mi pagina web
